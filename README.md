@@ -1,7 +1,7 @@
-<img src="#link do baner do projeto#" width=""> 
-
 # NLW widget
 É um widget de reporte de bugs que desenvolvi no evento NLW return da rocketseat.
+
+<img src="https://github.com/IsaqueAlcantaraDev/NLW_return/blob/main/pictures/print.png" width=""> 
 
 # tecnologias
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" align="center" height="30" width="40">](https://pt-br.reactjs.org)
