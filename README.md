@@ -43,5 +43,5 @@ http://localhost:3000
 ```
 
 # Autor
-| [<img src="https://github.com/IsaqueAlcantaraDev.png" width=115><br><sub>@IsaqueAlcantaraDev</sub>](https://github.com/IsaqueAlcantaraDev) |
+| [<img src="https://github.com/AlcantaraDev.png" width=115><br><sub>@AlcantaraDev</sub>](https://github.com/AlcantaraDev) |
 | :---: |
